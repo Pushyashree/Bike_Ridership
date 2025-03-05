@@ -57,7 +57,7 @@ We explore trends by **user type, gender, age group, time of day, and seasonalit
 5. Open bike_ridership.ipynb and run the analysis
 
 ## 📌 Results & Insights
-Presented in 
+Presented in [Cyclistic Bike-Share Analysis.pptx]
 Subscribers ride more consistently throughout the year, while casual riders peak in summer.
 Weekends have higher ride durations, especially for casual riders.
 Morning & evening peak hours indicate commuter usage.
