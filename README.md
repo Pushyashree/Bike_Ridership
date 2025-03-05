@@ -7,7 +7,7 @@ We explore trends by **user type, gender, age group, time of day, and seasonalit
 
 ## 📊 Dataset Details
 - **Source**: [NYC Citi Bike data](https://divvy-tripdata.s3.amazonaws.com/index.html)
-- **Time Period**: 2019
+- **Time Period**: 2019, all four quarters data files (Q1, Q2, Q3 and Q4)
 - **Features**:
   - `start_time`, `end_time`
   - `user_type` (Subscriber/Casual)
