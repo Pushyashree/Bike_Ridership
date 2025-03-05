@@ -44,13 +44,6 @@ We explore trends by **user type, gender, age group, time of day, and seasonalit
   - Bar plots for gender & age comparisons.
   - Heatmaps for hourly and weekly patterns.
 
-## 📊 Key Visualizations
-![Monthly Trends](images/monthly_trends.png)  
-**Figure 1:** Monthly bike usage trends for different user types.
-
-![Hourly Heatmap](images/hourly_heatmap.png)  
-**Figure 2:** Heatmap showing peak hours for ridership.
-
 ## 🔧 How to Use This Repo
 1. Clone the repository:
    ```sh
@@ -64,6 +57,7 @@ We explore trends by **user type, gender, age group, time of day, and seasonalit
 5. Open bike_ridership.ipynb and run the analysis
 
 ## 📌 Results & Insights
+Presented in 
 Subscribers ride more consistently throughout the year, while casual riders peak in summer.
 Weekends have higher ride durations, especially for casual riders.
 Morning & evening peak hours indicate commuter usage.
