@@ -54,7 +54,7 @@ We explore trends by **user type, gender, age group, time of day, and seasonalit
 ## 🔧 How to Use This Repo
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/NYC-Bike-Ridership-Analysis.git
+   git clone [https://github.com/yourusername/NYC-Bike-Ridership-Analysis.git](https://github.com/Pushyashree/Bike_Ridership.git)
 2. Run the SQL queries in BigQuery:
     Open .sql files
     Execute the queries in Google BigQuery Console
